@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-lal&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-lal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ankit_lal14" target="blank"><img src="https://img.shields.io/twitter/follow/ankit_lal14?logo=twitter&style=for-the-badge" alt="ankit_lal14" /></a> </p>
+<p align="left"> <a href="https://x.com/ayyitsankit" target="blank"><img src="https://img.shields.io/twitter/follow/ayyitsankit?logo=twitter&style=for-the-badge" alt="ayyitsankit" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankit_lal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit_lal14" height="30" width="40" /></a>
+<a href="https://x.com/ayyitsankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit_lal14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankit-lal-linked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-lal-linked" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/ankit-lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit-lal" height="30" width="40" /></a>
